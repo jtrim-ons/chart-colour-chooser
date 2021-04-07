@@ -4,7 +4,7 @@ var dvc = {
             "screenreadertext": "", //will replace default screenreader text - use if fuller description needed
             "dateFormat":"%b-%y",
             "legendStyle": "line",
-            "directLabeling" : true,
+            "directLabeling" : false,
             "directLabelingAdjust" : [{"x": 0, "y": 0},{"x": 0, "y": 7},{"x": 0, "y": -43}],
             "colour_palette": [],
             // for darker text required by accessibility rules on colour contrast
